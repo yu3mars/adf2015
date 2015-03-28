@@ -1,0 +1,4 @@
+D:\Users\yutaro\Documents\github\adf2015\self_intro\self_intro\bin\Debug\self_intro.exe
+D:\Users\yutaro\Documents\github\adf2015\self_intro\self_intro\bin\Debug\self_intro.pdb
+D:\Users\yutaro\Documents\github\adf2015\self_intro\self_intro\obj\x86\Debug\self_intro.exe
+D:\Users\yutaro\Documents\github\adf2015\self_intro\self_intro\obj\x86\Debug\self_intro.pdb
